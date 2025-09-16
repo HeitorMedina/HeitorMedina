@@ -1,8 +1,8 @@
-# Marcos
+# Marcos Heitor
 
-**Estudante do curso Técnico em Informática** no IFPI (1º ano de 3)  
-Atualmente também estudando **Ciência de Dados** e programação.  
-Interessado em **Python**, **Inteligência Artificial** e desenvolvimento de **SaaS**.
+**Estudante de Técnico em Informática** no IFPI (1º ano de 3)  
+Apaixonado por **tecnologia, programação e Inteligência Artificial**, com foco em **Python** e desenvolvimento de **SaaS**.  
+Busco sempre aprender coisas novas e transformar ideias em soluções práticas e criativas.
 
 ---
 
@@ -25,16 +25,6 @@ Possuo dedicação constante para aprimorar minhas habilidades em Inteligência 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## Estatísticas do GitHub
-
-### Gráfico de Barras  
-![Marcos GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeitorMedina&show_icons=true&theme=tokyonight)
-
-### Gráfico de Pizza  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorMedina&layout=pie&theme=tokyonight)
 
 ---
 
