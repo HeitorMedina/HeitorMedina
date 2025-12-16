@@ -14,8 +14,9 @@ Possuo dedicação constante para aprimorar minhas habilidades em Inteligência 
 
 ## Atualmente aprendendo
 - Machine Learning com Python  
-- Fundamentos de Redes  
-- Sistemas Operacionais  
+- Sistemas de Rede 
+- Sistemas Operacionais
+- React Native
 
 ---
 
