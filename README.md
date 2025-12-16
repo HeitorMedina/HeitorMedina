@@ -1,7 +1,7 @@
 # Marcos Heitor
 
 **Estudante de Técnico em Informática** no IFPI (2º ano de 3)  
-Apaixonado por **tecnologia, programação e Inteligência Artificial**, com foco em **Python** e desenvolvimento de **SaaS**.  
+Apaixonado por **tecnologia, programação e Inteligência Artificial**, com foco em **React** e desenvolvimento de **SaaS**.  
 Busco sempre aprender coisas novas e transformar ideias em soluções práticas e criativas.
 
 ---
